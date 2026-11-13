@@ -53,4 +53,5 @@ instead is this repository and the SHA-256 checksum in
 the download. If you would rather not, do not install it.
 
 The cask and this page are written by a script in the source repository;
-changes made here by hand are overwritten by the next release.
+changes made here by hand are overwritten by the next release. Each release
+arrives as a pull request, and Homebrew sees it once that is merged.
