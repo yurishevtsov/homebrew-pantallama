@@ -1,8 +1,8 @@
 # Written by scripts/release.sh in the Pantallama source repository. Do not edit
 # by hand: the next release overwrites this file.
 cask "pantallama" do
-  version "0.24.0"
-  sha256 "d0ca1abc7106cd8a65d4d58946ce4b449d8e834682caa5f851e788f771ebdb39"
+  version "0.25.0"
+  sha256 "7c9bfc2d403d105984e2505a0315bed9774360bb771bf7ac3dd0ee17b0292259"
 
   url "https://github.com/yurishevtsov/homebrew-pantallama/releases/download/v#{version}/Pantallama-#{version}.zip"
   name "Pantallama"
